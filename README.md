@@ -25,7 +25,7 @@ Projeto desenvolvido durante a 4ª edição da NLW. O Moveit, é uma ferramenta 
 ---
 
 ## 🚀 Deploy
-Foram apresentados os serviços Netlify e Vercel, mas, para o deploy dessa aplicação utilizado o serviço [Vercel](https://vercel.com/). O app está online e acessível por [este link](https://nlw04-moveit-one.vercel.app/).
+Foram apresentados os serviços Netlify e Vercel, mas, para o deploy dessa aplicação, foi utilizado o serviço [Vercel](https://vercel.com/). O app está online e acessível por [este link](https://nlw04-moveit-one.vercel.app/).
 
 ---
 
@@ -55,14 +55,13 @@ A UI deste projeto foi criada pelos mentores da NLW utilizando a ferramenta Figm
 
 ## ✍ Resumo NLW
 Nessa edição do NLW, foram abordados os seguintes conceitos, tecnologias e ferramentas para a construção do projeto:
-- O projeto foi desenvolvido em [ReactJs](https://reactjs.org/) + [NextJs](https://nextjs.org/) com a IDE [VS Code](https://code.visualstudio.com/).
-  - O NextJS foi apresentado como uma solução para melhorar o SEO (Search Engine Optimization) da aplicação web.
-- A linguagem escolhida para este projeto foi o [TypeScript](https://www.typescriptlang.org/).
-- Para a estilização dos componentes, foi utilizado o [css-modules](https://github.com/css-modules/css-modules). Com este recurso, foi possível estilizar os componentes sem que outros componentes fossem afetados, pois durante o build da aplicação, o css-modules altera a nomenclatura de classes e seletores para que tenham um escopo local.
-- Foi utilizado o gerenciador de estado global Context API, com ele, foi possível compartilhar parâmetros e funções entre os componentes React.
+- O projeto foi desenvolvido em [ReactJs](https://reactjs.org/) + [NextJs](https://nextjs.org/) com a IDE [VS Code](https://code.visualstudio.com/);
+  - O NextJS foi apresentado como uma solução para melhorar o SEO (Search Engine Optimization) da aplicação web;
+- A linguagem escolhida para este projeto foi o [TypeScript](https://www.typescriptlang.org/);
+- Para a estilização dos componentes, foi utilizado o [css-modules](https://github.com/css-modules/css-modules). Com este recurso, foi possível estilizar os componentes sem que outros componentes fossem afetados, pois durante o build da aplicação, o css-modules altera a nomenclatura de classes e seletores para que tenham um escopo local;
+- Foi utilizado o gerenciador de estado global **Context API**. Com ele foi possível compartilhar parâmetros e funções entre os componentes React;
 - Foi adicionada uma notificação personalizada via browser com áudio próprio quando um novo desafio é liberado;
-- Foi utilizada a funcionalidade do NextJs, “GetServerSideProps”, recuperar as informações nos cookies do navegador;
-  - Foi escolhida essa forma de armazenamento visto que o Next.js não consegue enxergar outros tipos de armazenamento pois não trabalha com o JavaScript no browser.
+- Foi utilizada a funcionalidade do NextJs, **GetServerSideProps**, recuperar as informações nos cookies do navegador.
 
 ---
 
