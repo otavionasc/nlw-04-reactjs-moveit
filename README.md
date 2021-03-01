@@ -9,7 +9,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-deploy">Deploy</a> •
-  <a href="#-instalação">Instalação</a> •
+  <a href="#-Instalação-e-uso">Instalação</a> •
   <a href="#-layout">Layout</a> • 
   <a href="#-resumo-nlw">Resumo NLW</a> • 
   <a href="#-desafios-extras">Desafios Extras</a> 
@@ -53,7 +53,7 @@ A UI deste projeto foi criada pelos mentores da NLW utilizando a ferramenta Figm
 
 ---
 
-## ✍ Resumo NLW
+## 📄 Resumo NLW
 Nessa edição do NLW, foram abordados os seguintes conceitos, tecnologias e ferramentas para a construção do projeto:
 - O projeto foi desenvolvido em [ReactJs](https://reactjs.org/) + [NextJs](https://nextjs.org/) com a IDE [VS Code](https://code.visualstudio.com/);
   - O NextJS foi apresentado como uma solução para melhorar o SEO (Search Engine Optimization) da aplicação web;
@@ -65,7 +65,7 @@ Nessa edição do NLW, foram abordados os seguintes conceitos, tecnologias e fer
 
 ---
 
-## 💪 Desafios Extras
+## 💡 Desafios Extras
 
 - [x]	Documentação no Github
 - [ ]	Melhorar a estilização da aplicação com tema dark e versão mobile
