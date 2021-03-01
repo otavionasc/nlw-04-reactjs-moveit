@@ -69,4 +69,4 @@ Nessa edição do NLW, foram abordados os seguintes conceitos, tecnologias e fer
 
 - [x]	Documentação no Github
 - [ ]	Melhorar a estilização da aplicação com tema dark e versão mobile
-- [ ]	o	Inserir perfil do github para capturar informações do usuário. Atualmente o meu perfil está fixo na aplicação
+- [ ]	Inserir o perfil do github para capturar informações do usuário. Atualmente, o meu perfil está fixo na aplicação
