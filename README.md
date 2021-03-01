@@ -54,7 +54,7 @@ A UI deste projeto foi criada pelos mentores da NLW utilizando a ferramenta Figm
 ---
 
 ## ✍ Resumo NLW
-Nessa edição do NLW, foram abordados os seguintes conceitos, tecnologias e ferramentas para a construção do projeto.
+Nessa edição do NLW, foram abordados os seguintes conceitos, tecnologias e ferramentas para a construção do projeto:
 - O projeto foi desenvolvido em [ReactJs](https://reactjs.org/) + [NextJs](https://nextjs.org/) com a IDE [VS Code](https://code.visualstudio.com/).
   - O NextJS foi apresentado como uma solução para melhorar o SEO (Search Engine Optimization) da aplicação web.
 - A linguagem escolhida para este projeto foi o [TypeScript](https://www.typescriptlang.org/).
@@ -69,5 +69,5 @@ Nessa edição do NLW, foram abordados os seguintes conceitos, tecnologias e fer
 ## 💪 Desafios Extras
 
 - [x]	Documentação no Github
-- []	Melhorar a estilização da aplicação com tema dark e versão mobile
-- []	o	Inserir perfil do github para capturar informações do usuário. Atualmente o meu perfil está fixo na aplicação
+- [ ]	Melhorar a estilização da aplicação com tema dark e versão mobile
+- [ ]	o	Inserir perfil do github para capturar informações do usuário. Atualmente o meu perfil está fixo na aplicação
